@@ -1,9 +1,10 @@
 // nfn
-const name = (params) => {
-  
-}
+
+`const name = (params) => {}`
 
 // rsc
+
+```
 import React from 'react';
 
 const Expenses = () => {
@@ -15,3 +16,4 @@ const Expenses = () => {
 };
 
 export default Expenses;
+```
